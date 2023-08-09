@@ -1,4 +1,4 @@
-# ChatGPT AI Chatbot App
+# ChatGPT Clone
 
 
 <p>
